@@ -9,7 +9,6 @@ npm start
 
 - [项目地址](https://gitee.com/yuzhoudaima/react-personal-portfolio.git)
 - [react-bootstrap 官网](https://www.react-bootstrap.cn/)
-- 项目资源到[https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio](https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio)下载
 
 # 导航栏
 
